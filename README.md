@@ -1,16 +1,10 @@
 # flutter_bloc
+<img src="https://tinyurl.com/bloc-library" alt="Bloc Library">
 
-A new Flutter project.
+<img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/flutter_bloc_logo_full.png" height="100" alt="Flutter Bloc Package">
 
-## Getting Started
+## Quando utilizar
+### Quando existem interfaces diferentes que consomem a mesma regra de negócio.
+<img src="img/bloc.png"/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
